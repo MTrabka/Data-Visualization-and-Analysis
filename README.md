@@ -1,10 +1,18 @@
-# Data Visualization and Analysis of Player Statistics (LoL 2024 Championship)
+# Data Visualization and Analysis of League of Legends Champions 
 ## Project overview
-This project focuses on analyzing and visualizing player statistics from the 2024 LoL Championship dataset. The primary goal is to provide meaningful insights into player performance, highlighting key metrics like KDA (Kill-Death-Assist ratio), DPM (Damage Per Minute), KP% (Kill Participation), and more. By leveraging Python and data visualization libraries, this project allows users to explore the relationships between various performance metrics and analyze trends within LoL Championship.
-## Dataset
-The dataset used in this project is from the 2024 League of Legends Championship and can be found on Kaggle:
+### Objective
+The primary goal of this project is to analyze the characteristics and statistics of champions in League of Legends. By exploring the dataset, I aim to:
 
-* An, 2024. 2024 LoL Championship Player Stats & Swiss Stage. Kaggle. DOI: 10.34740/KAGGLE/DSV/9722676
+* Understand the relationships between champion attributes such as health, mana, and attack damage.
+* Compare champions based on their roles, range types, and resource types.
+* Identify patterns and trends in champion stats, such as which roles excel in specific attributes or how different tags impact gameplay.
+  
+This analysis can help players improve their strategies, developers assess game balance, and analysts study the meta-game dynamics.
 
+### Dataset 
+
+The dataset provides detailed information about 167 champions in League of Legends. It includes a variety of attributes, both categorical and numerical, that define each champion's role, playstyle, and performance in the game.
+The dataset is publicly available on Kaggle: [League of Legends Champions Dataset](https://www.kaggle.com/datasets/cutedango/league-of-legends-champions/data)
+.
 ## License
 This project is licensed under the MIT License - see the LICENSE for details.
